@@ -1,1 +1,1 @@
-# MSE18-ExtraSession-BSBingo-Solution
+# MSE-ExtraSession-BSBingo-Solution
